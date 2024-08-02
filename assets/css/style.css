@@ -1,0 +1,38 @@
+.navbar-brand{
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#BuscadorSH{
+    background-color: #90D26D;
+}
+
+.title {
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #F8F6E3;
+}
+
+.titleSH{
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:#FF9800;
+}
+
+.label {
+    color: #F8F6E3;
+}
+.img-card {
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    color:#FF9800;
+    font-family: "Bangers", system-ui;
+    font-size: 40px;
+}
+
